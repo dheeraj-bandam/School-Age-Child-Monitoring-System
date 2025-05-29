@@ -1,0 +1,31 @@
+{
+  "data": [
+    [
+      {
+        "index": 1,
+        "latitude": 12,
+        "longitude": 13
+      }
+    ],
+    [
+      {
+        "index": 1,
+        "latitude": 12,
+        "longitude": 13
+      }
+    ],
+    [
+      {
+        "index": 0,
+        "latitude": 50.04,
+        "longitude": 60.603
+      }
+    ],
+    [
+      {
+        "index": 1,
+        "latitude": 74.04,
+        "longitude": 82.819
+      }
+    ],
+}
